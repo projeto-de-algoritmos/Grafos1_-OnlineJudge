@@ -1,4 +1,4 @@
-# Exercicios Online
+# Online Judge
 
 **Número da Lista**: X<br>
 **Conteúdo da Disciplina**: Grafo 1<br>
