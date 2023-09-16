@@ -6,8 +6,8 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 20/0056603 |  Alex Gabriel Alves Faustino      |
-| 18/0022512 |  Lucas de Lima Spinosa dos Santos |
+| 21/1031628 |  Beatriz Vieira Nascimento     |
+|  |   |
 
 ## Sobre 
 Neste repositório estão soluções para exercícios de grafos de juízes online. 
